@@ -1,0 +1,32 @@
+/* 
+* Chris de Leon
+* 11/23/2022
+* CIS131 Vue Movie Tickets Project
+*/
+
+html {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans";
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+.shoppingCart {
+    background-color: gray;
+    border-radius: 15px;
+    padding: 5px;
+
+
+}
+
+.shoppingCart:hover {
+    cursor: pointer;
+}
+
+.svg {
+    border: 1px solid green;
+}
